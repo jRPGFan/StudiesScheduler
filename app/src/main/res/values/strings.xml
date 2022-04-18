@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">StudiesScheduler</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="timer_title">Are you ready for exams?</string>
+    <string name="timer_zero">0</string>
+    <string name="timer_colon">:</string>
+    <string name="timer_days">Days</string>
+    <string name="timer_hours">Hours</string>
+    <string name="timer_minutes">Minutes</string>
+    <string name="text_classes">Classes</string>
+    <string name="history_class">History</string>
+    <string name="classes_time">08:00-09:30</string>
+    <string name="homework">Homework</string>
+    <string name="literature_task">Read scenes 1.1-1.12 of The Master and Margarita</string>
+    <string name="teacher">Teacher: </string>
 </resources>
